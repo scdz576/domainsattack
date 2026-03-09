@@ -1,2 +1,2 @@
-Spam:ex1Api.com 
-Spam:ex2Api.com
+Spam*ex1Api.com 
+Spam*ex2Api.com
